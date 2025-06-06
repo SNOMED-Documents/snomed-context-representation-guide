@@ -1,14 +1,7 @@
 # Table of contents
 
-* [Archive](README.md)
+* [Implementation Guide FRONT PAGE](README.md)
 * [Executive Summary](executive-summary.md)
-* [Implementation Guide FRONT PAGE](frontpage.md)
-* [DOCCTXSIG (SNOMED CT Implementation Guide for Context Representation)](index.md)
-* [Previous Versions](previous-versions.md)
-* [Recent Updates](recent-updates.md)
-* [SNOMED CT Implementation Guide for Context Representation](snomed-ct-implementation-guide-for-context-representation.md)
-* [The SNOMED CT Logical Profile's inability to Accurately Classify 'Absent' Findings](the-snomed-ct-logical-profiles-inability-to-accurately-classify-absent-findings.md)
-* [Undesired Contextual Information in Clinical Finding and Procedure Hierarchy](undesired-contextual-information-in-clinical-finding-and-procedure-hierarchy.md)
 * [1 introduction](<1 introduction/README.md>)
 * [2 terminology-and-information-models-in-healthcare](<2 terminology-and-information-models-in-healthcare/README.md>)
   * [2.1-information-models-in-healthcare](<2 terminology-and-information-models-in-healthcare/2.1-information-models-in-healthcare.md>)
