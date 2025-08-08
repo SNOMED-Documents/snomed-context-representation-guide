@@ -23,7 +23,7 @@ The default values for the context attributes for procedures assume that the pro
 
 The SNOMED CT concept [698306007 |Awaiting transplantation of kidney (situation)|](http://snomed.info/id/698306007) describes a patient’s status as they await a kidney transplant. A key attribute here is [363589002 |Associated procedure (attribute)|](http://snomed.info/id/363589002) Associated procedure, which is [70536003 |Transplant of kidney (procedure)|](http://snomed.info/id/70536003) . This indicates that the focus of the situation is the upcoming kidney transplantation procedure. Additionally, the concept includes the [|Procedure context (attribute)|](http://snomed.info/id/408730004) as [|To be done (qualifier value)|](http://snomed.info/id/385643006) To be done, specifying that the transplant is planned but not yet performed, and it applies to the patient at the [|Current or specified time (qualifier value)|](http://snomed.info/id/410512000) .
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Examples - Procedure Context <a href="#id-4.2procedurewithexplicitcontext-examples-procedurecontext" id="id-4.2procedurewithexplicitcontext-examples-procedurecontext"></a>
 
@@ -36,7 +36,7 @@ The SNOMED CT concept [704202004 |Lung transplant planned (situation)|](http://s
 
 is [|Subject of record (person)|](http://snomed.info/id/410604004) , indicating that the procedure pertains to the patient themselves. The [|Temporal context (attribute)|](http://snomed.info/id/408731000)  is [|Current or specified time (qualifier value)|](http://snomed.info/id/410512000) , showing that the procedure is relevant at the present time or based on a specific schedule.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Examples - Subject Relationship Context <a href="#id-4.2procedurewithexplicitcontext-examples-subjectrelationshipcontext" id="id-4.2procedurewithexplicitcontext-examples-subjectrelationshipcontext"></a>
 

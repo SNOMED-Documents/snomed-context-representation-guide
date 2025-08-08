@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/banner.jpg
-coverY: 0
----
-
 # Implementation Guide for Context Representation
 
 The SNOMED CT Implementation Guide for Context Representation provides important guidance for aligning SNOMED CT terminology with healthcare information models. It addresses the challenges of representing clinical context and terminology binding, particularly between SNOMED CT’s “Situation with Explicit Context” hierarchy and models like HL7 FHIR or openEHR. By introducing key principles and practical methods for accurate and interoperable context representation, the guide helps healthcare systems achieve consistency, improve data quality, and support better clinical decision-making. This standardized approach empowers developers and organizations to enable context-aware, interoperable data exchange across the healthcare ecosystem.
