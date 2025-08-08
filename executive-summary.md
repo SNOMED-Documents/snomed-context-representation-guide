@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Executive Summary
 
 The SNOMED CT Implementation Guide for Context Representation provides essential principles for bridging the gap between SNOMED CT terminology and information models in healthcare. By addressing the challenges associated with context representation and terminology binding, the guide enables healthcare systems to achieve consistent, accurate, and interoperable data exchange.
