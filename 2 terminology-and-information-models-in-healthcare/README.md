@@ -18,3 +18,10 @@ However, managing the complexity of overlapping data representations can present
 
 Addressing these challenges through standardized approaches, semantic mapping, and interoperability initiatives is essential for healthcare organizations to ensure interoperability and effectively leverage the full potential of healthcare data
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Context IG&entry.670899847=Terminology%20and%20Information%20Models%20in%20Healthcare" class="button primary">Provide Feedback</a>

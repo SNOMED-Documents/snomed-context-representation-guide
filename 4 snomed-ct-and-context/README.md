@@ -39,3 +39,10 @@ The concept model for SwECs includes two core attributes that apply universally 
 </code></pre></td><td><p>Indicates the status or completion of a procedure, such as planned, ongoing, or completed.</p><p>For example, <a href="http://snomed.info/id/183976008">183976008 |Operative procedure planned (situation)|</a>  is defined with the procedure context “Planned.</p></td></tr></tbody></table>
 
 The following pages will present examples of the different types of situations with explicit context, illustrating how each attribute is applied.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Context IG&entry.670899847=SNOMED%20CT%20and%20Context" class="button primary">Provide Feedback</a>

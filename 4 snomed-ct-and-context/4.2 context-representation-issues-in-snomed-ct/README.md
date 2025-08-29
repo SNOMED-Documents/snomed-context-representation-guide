@@ -51,3 +51,10 @@ The SNOMED CT concept [433977002 |Family history of mastectomy (situation)|](htt
 The SNOMED CT concept [134651000119108 |History of estrogen therapy (situation)|](http://snomed.info/id/134651000119108)  details a patient’s past use of estrogen hormone therapy. A key attribute here is [|Temporal context (attribute)|](http://snomed.info/id/408731000) , which is [410513005 |In the past (qualifier value)|](http://snomed.info/id/410513005) . This attribute specifies that the estrogen therapy occurred in the past. Additionally, the concept includes [|Associated procedure (attribute)|](http://snomed.info/id/363589002) as [|Estrogen hormone therapy (procedure)|](http://snomed.info/id/243125009) , indicating the specific therapy administered, and [|Procedure context (attribute)|](http://snomed.info/id/408730004) as [|Done (qualifier value)|](http://snomed.info/id/385658003) , showing that the therapy was completed. The subject relationship context is [|Subject relationship context (attribute)|](http://snomed.info/id/408732007)  as [|Subject of record (person)|](http://snomed.info/id/410604004) , signifying that the therapy pertains to the patient themselves.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Context IG&entry.670899847=Procedure%20with%20Explicit%20Context" class="button primary">Provide Feedback</a>
