@@ -8,27 +8,15 @@ This chapter focuses on the strategies and methodologies for implementing transf
 
 {% tabs %}
 {% tab title="Pre-transformation: SNOMED CT Concept / Expression" %}
-<figure><img src="../../images/278301534.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/278301534.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Post-transformation: FHIR Resource" %}
-<figure><img src="../../images/278301533.png" alt=""><figcaption><p>Figure 6.3-1: </p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/278301533.png" alt=""><figcaption><p>Figure 6.3-1:</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 * [6.3.1 FHIR and SWEC Comparison](../../6%20technical-application/6.3%20context-representation-transformations/6.3.1-FHIR-and-SWEC-Comparison_278301535.html)
-
-
-
 * [6.3.2 Transformations between SWEC and FHIR](../../6%20technical-application/6.3%20context-representation-transformations/6.3.2-Transformations-between-SWEC-and-FHIR_278301536.html)
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Context+Representation+Guide&entry.670899847=Context%20Representation%20Transformations" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Context+Representation+Guide&#x26;entry.670899847=Context%20Representation%20Transformations" class="button primary">Provide Feedback</a>
