@@ -4,7 +4,7 @@ Efficient healthcare data management relies on two fundamental components: termi
 
 ## Terminology
 
-Terminologies, such as SNOMED CT and other classifications, serve as standardized vocabularies for representing medical concepts and entities. They excel at answering questions related to "What, how, and why?" by precisely defining and categorizing types (classes) of diseases, symptoms, signs, procedures, body structures, morphologies, substances, drugs, devices, organisms, and objects. By providing a common language for healthcare professionals, terminologies ensure semantic consistency and support accurate documentation and retrieval of patient information of patient information.
+Terminologies, such as SNOMED CT and other classifications, serve as standardized vocabularies for representing medical concepts and entities. They excel at answering questions related to "What, how, and why?" by precisely defining and categorizing types (classes) of diseases, symptoms, signs, procedures, body structures, morphologies, substances, drugs, devices, organisms, and objects. By providing a common language for healthcare professionals, terminologies ensure semantic consistency and support accurate documentation and retrieval of patient information.
 
 ## Information Models
 
@@ -18,9 +18,4 @@ However, managing the complexity of overlapping data representations can present
 
 Addressing these challenges through standardized approaches, semantic mapping, and interoperability initiatives is essential for healthcare organizations to ensure interoperability and effectively leverage the full potential of healthcare data
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Context+Representation+Guide&entry.670899847=Terminology%20and%20Information%20Models%20in%20Healthcare" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Context+Representation+Guide&#x26;entry.670899847=Terminology%20and%20Information%20Models%20in%20Healthcare" class="button primary">Provide Feedback</a>
