@@ -16,6 +16,6 @@ While terminology and information models serve distinct purposes, there is signi
 
 However, managing the complexity of overlapping data representations can present challenges. Inconsistent mapping between terminologies and information models, variations in data interpretation, and discrepancies in data capture practices can lead to semantic interoperability issues and hinder the seamless exchange and integration of healthcare data.
 
-Addressing these challenges through standardized approaches, semantic mapping, and interoperability initiatives is essential for healthcare organizations to ensure interoperability and effectively leverage the full potential of healthcare data
+Addressing these challenges through standardized approaches, semantic mapping, and interoperability initiatives is essential for healthcare organizations to ensure interoperability and effectively leverage the full potential of healthcare data.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Context+Representation+Guide&#x26;entry.670899847=Terminology%20and%20Information%20Models%20in%20Healthcare" class="button primary">Provide Feedback</a>
