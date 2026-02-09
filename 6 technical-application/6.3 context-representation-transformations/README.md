@@ -16,7 +16,4 @@ This chapter focuses on the strategies and methodologies for implementing transf
 {% endtab %}
 {% endtabs %}
 
-* [6.3.1 FHIR and SWEC Comparison](../../6%20technical-application/6.3%20context-representation-transformations/6.3.1-FHIR-and-SWEC-Comparison_278301535.html)
-* [6.3.2 Transformations between SWEC and FHIR](../../6%20technical-application/6.3%20context-representation-transformations/6.3.2-Transformations-between-SWEC-and-FHIR_278301536.html)
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Context+Representation+Guide&#x26;entry.670899847=Context%20Representation%20Transformations" class="button primary">Provide Feedback</a>
